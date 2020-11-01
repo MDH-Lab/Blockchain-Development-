@@ -6,7 +6,7 @@ All examples in files are written on Remix - Ethereum IDE https://remix.ethereum
 
 We count regular datatypes in solidity that you find in mostly all programming languages such as variables, booleans, integers etc. 
 
-Here are the few take to remember at this stage : 
+Here are the few takes to remember at this stage : 
 
 * All unsigned integers are initialized by default as 0 and not NULL values 
 * Strings are also empty by default 
