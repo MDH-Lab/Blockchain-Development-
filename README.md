@@ -1,6 +1,6 @@
 # Blockchain-Development-
 
-What is Blockchain?
+## What is Blockchain?
 If this technology is so complex, why call it “blockchain?” At its most basic level, blockchain is literally just a chain of blocks, but not in the traditional sense of those words. When we say the words “block” and “chain” in this context, we are actually talking about digital information (the “block”) stored in a public database (the “chain”).
 
 “Blocks” on the blockchain are made up of digital pieces of information. Specifically, they have three parts:
@@ -12,7 +12,7 @@ Blocks store information that distinguishes them from other blocks. Much like yo
 To read further ----> https://en.wikipedia.org/wiki/Blockchain
                 ----> https://www.investopedia.com/terms/b/blockchain.asp
 
-#Scope
+## Scope
 
 The scope of the Code is to show what you can achieve in Solidity, Ethereum, Web3, Truffle, Ethereum Studio, etc. In Particular:
 
@@ -27,7 +27,7 @@ Work with Truffle and WebPack
 
 ---------------------Install Instructions----------------------
 
-#Geth
+## Geth
 
 Download geth for your platform from https://geth.ethereum.org/downloads/
 
@@ -37,7 +37,7 @@ Copy the "geth" file within the download zip into the following folder:
 
 "/usr/local/bin"
 
-#Truffle
+## Truffle
 
 Install NodeJS first: https://nodejs.org/en/
 
@@ -57,9 +57,9 @@ For MIST:
 
 /Applications/Mist.app/Contents/MacOS/Mist --rpc <path to chaindata>/geth.ipc
   
-For projects : 
+## For projects : 
 
-Please contact me through my website as I will be glad to explore various project you would need me to step in : www.dorian-hedy-mekni.com 
+Please contact me through my website as I will be glad to explore various projects you would need me to step in : www.dorian-hedy-mekni.com 
 
 Best
 
