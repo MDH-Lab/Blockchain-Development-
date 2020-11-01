@@ -56,3 +56,11 @@ geth attach ipc:/path/to/the/file/geth.ipc
 For MIST:
 
 /Applications/Mist.app/Contents/MacOS/Mist --rpc <path to chaindata>/geth.ipc
+  
+For projects : 
+
+Please contact me through my website as I will be glad to explore various project you would need me to step in : www.dorian-hedy-mekni.com 
+
+Best
+
+Dorian 
